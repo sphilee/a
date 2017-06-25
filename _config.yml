@@ -1,6 +1,6 @@
 # main text of home
 name: GH Lee
-bio: Web Developer, coffee drinking'
+bio: 'Web Developer, coffee drinking'
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-analytics-google: 
+analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
 disqus: artiannaswamy
