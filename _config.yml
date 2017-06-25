@@ -25,17 +25,17 @@ analytics-google: 'UA-74313908-1'
 disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
- facebook: sphilee
-# twitter: aannasw
+# facebook: myfacebook
+twitter: aannasw
 # google: mygoogle
 # instagram: myinstagram
-# pinterest: annasw
-# linkedin: artiannaswamy
+pinterest: annasw
+linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: sphilee
+github: aannasw
 # medium: medium
-email: gwanhyung787@gmail.com
+email: hello@artiannaswamy.com
 
 authors:
     artiannaswamy:
