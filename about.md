@@ -6,11 +6,11 @@ layout: page
 
 <p>I like to learn new things with JavaScript.</p>
 
-<p>I graduated from <a href="http://www.ajou.ac.kr/kr/index.jsp" target="_blank">Ajou University</a> majored in software.</p>
+<p>I graduated from <a href="http://www.ajou.ac.kr/kr/index.jsp" target="_blank">Ajou University</a> majored in software engineering.</p>
 
 <p>I grew up in the countryside called Cheongju-si, Chungcheongbuk-do, and now I live in Seoul, Korea.</p>
 
-<p>Nowadays I work as a software developer in SK C&C. It's different from what we've done before and it's totally awesome so far. I am learning for the first time how to think strategically about the level / scope of communication needed for organizational change.</p>
+<p>Nowadays I work as a software developer in SK C&C. It is different from what I have done before and is totally awesome so far. I am learning for the first time how to think strategically about the level / scope of communication needed for organizational change.</p>
 
 <h2>Skills</h2>
 
